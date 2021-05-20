@@ -1,4 +1,4 @@
-# Diverse-Reference-Augmentation-Dialog
+# Improving Automated Evaluation of Open Domain Dialog via Diverse Reference Augmentation
 
 Code and Data for our Findings of ACL 2021  paper titled 'Improving Automated Evaluation of Open Domain Dialog via Diverse Reference Augmentation. Varun Gangal \*, Harsh Jhamtani \*, Eduard Hovy, Taylor Berg-Kirkpatrick'
 

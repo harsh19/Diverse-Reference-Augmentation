@@ -8,7 +8,9 @@ todo
 
 
 ### Requirements
-todo
+- Python 3.7.5
+- bert_score (0.3.7)
+- nlgeval [Link](https://github.com/Maluuba/nlg-eval)(Accessed: December 2020)
 
 
 ### Code

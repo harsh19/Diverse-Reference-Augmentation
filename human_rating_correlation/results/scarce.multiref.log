@@ -1,0 +1,74 @@
+{
+  "Bleu_1": {
+    "pearsonr": 0.2692610691992444,
+    "pearsonr_pvalue": 9.40680342710601e-10,
+    "spearmanr": 0.29477042945342713,
+    "spearmanr_pvalue": 1.7588479682798655e-11,
+    "kendall_tau": 0.20506620456058616,
+    "kendall_tau_pvalue": 1.9534384216755555e-11
+  },
+  "Bleu_2": {
+    "pearsonr": 0.29130170664303323,
+    "pearsonr_pvalue": 3.0948693464727e-11,
+    "spearmanr": 0.32717454145076424,
+    "spearmanr_pvalue": 6.139668887519748e-14,
+    "kendall_tau": 0.2277064262326499,
+    "kendall_tau_pvalue": 8.18173132601609e-14
+  },
+  "Bleu_3": {
+    "pearsonr": 0.26908843936409044,
+    "pearsonr_pvalue": 9.650323623290834e-10,
+    "spearmanr": 0.34531793132338917,
+    "spearmanr_pvalue": 1.895317166298005e-15,
+    "kendall_tau": 0.24244002493321698,
+    "kendall_tau_pvalue": 1.8359931868004377e-15
+  },
+  "Bleu_4": {
+    "pearsonr": 0.16191387668761997,
+    "pearsonr_pvalue": 0.00027748682031714225,
+    "spearmanr": 0.3574870352365183,
+    "spearmanr_pvalue": 1.6139384357071915e-16,
+    "kendall_tau": 0.25118883025777744,
+    "kendall_tau_pvalue": 1.7379073546893013e-16
+  },
+  "ROUGE_L": {
+    "pearsonr": 0.29989050596902095,
+    "pearsonr_pvalue": 7.53132316060573e-12,
+    "spearmanr": 0.3170660367520862,
+    "spearmanr_pvalue": 3.864421511254185e-13,
+    "kendall_tau": 0.22339477388509185,
+    "kendall_tau_pvalue": 2.376370688057162e-13
+  },
+  "METEOR": {
+    "pearsonr": 0.2994467759503701,
+    "pearsonr_pvalue": 8.111191200844066e-12,
+    "spearmanr": 0.29944759874916366,
+    "spearmanr_pvalue": 8.110076624161471e-12,
+    "kendall_tau": 0.20745216656897758,
+    "kendall_tau_pvalue": 9.266238152861674e-12
+  },
+  "SkipThoughtCS": {
+    "pearsonr": -0.03951863035892381,
+    "pearsonr_pvalue": 0.3778870112660676,
+    "spearmanr": 0.12905766198346952,
+    "spearmanr_pvalue": 0.0038439467349111705,
+    "kendall_tau": 0.09689549420142231,
+    "kendall_tau_pvalue": 0.0014485479701682067
+  },
+  "bert_prec": {
+    "pearsonr": 0.3967907070771653,
+    "pearsonr_pvalue": 2.6561716920507988e-20,
+    "spearmanr": 0.4070410947531043,
+    "spearmanr_pvalue": 2.2423985494889793e-21,
+    "kendall_tau": 0.2792721346430182,
+    "kendall_tau_pvalue": 4.3420705000662e-20
+  },
+  "bert_rec": {
+    "pearsonr": 0.31231081241710973,
+    "pearsonr_pvalue": 8.966459352078339e-13,
+    "spearmanr": 0.30439162515633655,
+    "spearmanr_pvalue": 3.523517081886065e-12,
+    "kendall_tau": 0.21169593127965805,
+    "kendall_tau_pvalue": 3.452213624251157e-12
+  }
+}

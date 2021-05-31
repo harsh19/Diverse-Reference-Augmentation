@@ -1,0 +1,82 @@
+{
+  "Bleu_1": {
+    "pearsonr": 0.1789988874491374,
+    "pearsonr_pvalue": 5.695779048037768e-05,
+    "spearmanr": 0.19088488102931053,
+    "spearmanr_pvalue": 1.729629293409915e-05,
+    "kendall_tau": 0.13399911352759383,
+    "kendall_tau_pvalue": 1.0973937083747663e-05
+  },
+  "Bleu_2": {
+    "pearsonr": 0.22483911291703973,
+    "pearsonr_pvalue": 3.7711719506710276e-07,
+    "spearmanr": 0.20333220874014968,
+    "spearmanr_pvalue": 4.578452689840679e-06,
+    "kendall_tau": 0.14181997568325416,
+    "kendall_tau_pvalue": 3.2190600353935554e-06
+  },
+  "Bleu_3": {
+    "pearsonr": 0.19079701564118914,
+    "pearsonr_pvalue": 1.7454161136290952e-05,
+    "spearmanr": 0.24284363398868541,
+    "spearmanr_pvalue": 3.817642522195428e-08,
+    "kendall_tau": 0.17152402431404964,
+    "kendall_tau_pvalue": 1.7846763242587644e-08
+  },
+  "Bleu_4": {
+    "pearsonr": 0.14677417774719037,
+    "pearsonr_pvalue": 0.0009961949975682601,
+    "spearmanr": 0.2806256503231385,
+    "spearmanr_pvalue": 1.6798136941567912e-10,
+    "kendall_tau": 0.19713827861161437,
+    "kendall_tau_pvalue": 9.628485586877328e-11
+  },
+  "ROUGE_L": {
+    "pearsonr": 0.21820390601693757,
+    "pearsonr_pvalue": 8.373179145494762e-07,
+    "spearmanr": 0.19661048804150782,
+    "spearmanr_pvalue": 9.482973802186947e-06,
+    "kendall_tau": 0.1381222728649071,
+    "kendall_tau_pvalue": 5.771940892154088e-06
+  },
+  "METEOR": {
+    "pearsonr": 0.25852351858300443,
+    "pearsonr_pvalue": 4.456007256040114e-09,
+    "spearmanr": 0.22713089067219147,
+    "spearmanr_pvalue": 2.846593822511213e-07,
+    "kendall_tau": 0.15662203234840322,
+    "kendall_tau_pvalue": 2.6428882461522096e-07
+  },
+  "SkipThoughtCS": {
+    "pearsonr": -0.11200535369911029,
+    "pearsonr_pvalue": 0.012205810343425017,
+    "spearmanr": 0.06516158386715336,
+    "spearmanr_pvalue": 0.1456811400714117,
+    "kendall_tau": 0.05269039251875929,
+    "kendall_tau_pvalue": 0.08330059447812675
+  },
+  "EmbeddingAverageCosineSimilairty": {
+    "pearsonr": 0.06714249121867183,
+    "pearsonr_pvalue": 0.13379937760310198,
+    "spearmanr": 0.09921904977171642,
+    "spearmanr_pvalue": 0.026518770565700168,
+    "kendall_tau": 0.06864954160848986,
+    "kendall_tau_pvalue": 0.024046172775867725
+  },
+  "bert_prec": {
+    "pearsonr": 0.32929560520528994,
+    "pearsonr_pvalue": 4.13693261459256e-14,
+    "spearmanr": 0.31932247093682553,
+    "spearmanr_pvalue": 2.578330135973415e-13,
+    "kendall_tau": 0.2203392748072574,
+    "kendall_tau_pvalue": 4.4138193440008365e-13
+  },
+  "bert_rec": {
+    "pearsonr": 0.2630992862293888,
+    "pearsonr_pvalue": 2.3161839971085445e-09,
+    "spearmanr": 0.23198406741259991,
+    "spearmanr_pvalue": 1.5537566472910674e-07,
+    "kendall_tau": 0.1627142629306053,
+    "kendall_tau_pvalue": 8.88656342586755e-08
+  }
+}
